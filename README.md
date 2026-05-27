@@ -38,22 +38,35 @@ Este projeto faz parte do meu portfólio e representa meu primeiro passo na cons
 | Tecnologia | O que foi usado |
 
 | **HTML5** | Estrutura semântica, links âncora, formulário |
+
 | **CSS3** | Flexbox, gradientes, transições, box-shadow, layout fixo |
+
 | **JavaScript** | Validação de formulário, manipulação do DOM, eventos, setTimeout |
+
 | **Git / GitHub** | Versionamento e hospedagem (GitHub Pages) |
 
 ## 📁 Estrutura do projeto
 
 cafe-landing-page-desktop/
+
 ├── index.html # Página principal
+
 ├── style.css # Estilos desktop
+
 ├── script.js # Validação do formulário
+
 ├── imagens/ # Todas as imagens usadas
+
 │ ├── banner-exemplo.jpg
+
 │ ├── expresso.jpg
+
 │ ├── cappuccino.jpg
+
 │ ├── croissant.jpg
+
 │ └── latte.jpg
+
 └── README.md 
 
 Este projeto foi um marco no meu aprendizado. Sair do "Hello World" e construir uma landing page completa, com código organizado, estilização consistente e interação real, me deu muita confiança para encarar desafios maiores. Estou muito orgulhosa do resultado e de poder compartilhá-lo no meu portfólio.
