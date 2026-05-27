@@ -79,6 +79,6 @@ Autora: Jéssica Oliveira
 
 🔗 GitHub: github.com/jessica-oliver28
 
-🔗 LinkedIn:linkedin.com/in/jessica-oliveira-frontend
+🔗 LinkedIn: linkedin.com/in/jessica-oliveira-frontend
 
 📧 E-mail: jessicaoliverfaria@gmail.com
