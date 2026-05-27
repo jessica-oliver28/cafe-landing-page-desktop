@@ -6,9 +6,9 @@
 
 Este projeto faz parte do meu portfólio e representa meu primeiro passo na construção de interfaces reais, com organização de código, preocupação com usabilidade e validação de formulário.
 
-![Preview 1](images/print1.png)
+![Preview 1](images/print1.PNG)
 
-![Preview 2](images/print2.png)
+![Preview 2](images/print2.PNG)
 
 # 👩‍💻 O que eu fiz e o que aprendi
 
