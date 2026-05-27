@@ -73,9 +73,9 @@ Este projeto foi um marco no meu aprendizado. Sair do "Hello World" e construir 
 
 Agradeço por visitar meu projeto! Feedbacks são sempre bem-vindos. 💜
 
-📫 Contato e redes
-
 Autora: Jéssica Oliveira
+
+📫 Contato e redes:
 
 🔗 GitHub: github.com/jessica-oliver28
 
